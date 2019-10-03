@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="field" FQNAME="com.indmind.moviefavorite.models.Movie CREATOR" />
+    </entry_points>
+    <pattern value="com.indmind.moviefavorite.ExampleUnitTest" method="addition_isCorrect" />
+    <pattern value="com.indmind.moviefavorite.ExampleInstrumentedTest" />
+    <pattern value="com.indmind.moviefavorite.ExampleUnitTest" />
+    <pattern value="com.indmind.moviefavorite.models.Movie" method="getBackdrop_path" />
+    <pattern value="com.indmind.moviefavorite.models.Movie" method="getGenre_ids" />
+    <pattern value="com.indmind.moviefavorite.models.Movie" method="getId" />
+    <pattern value="com.indmind.moviefavorite.models.Movie" method="getOriginal_language" />
+    <pattern value="com.indmind.moviefavorite.models.Movie" method="getOriginal_title" />
+    <pattern value="com.indmind.moviefavorite.models.Movie" method="getPopularity" />
+    <pattern value="com.indmind.moviefavorite.models.Movie" method="getRelease_date" />
+    <pattern value="com.indmind.moviefavorite.models.Movie" method="getVote_count" />
+    <pattern value="com.indmind.moviefavorite.MainActivity" />
+    <pattern value="com.indmind.moviefavorite.models.Movie" method="isAdult" />
+    <pattern value="com.indmind.moviefavorite.models.Movie" method="isVideo" />
+    <pattern value="com.indmind.moviefavorite.models.Movie" />
+    <pattern value="com.indmind.moviefavorite.models.Movie" method="setGenre_ids" />
+    <pattern value="com.indmind.moviefavorite.models.Movie" method="setTitle" />
+    <pattern value="com.indmind.moviefavorite.ExampleInstrumentedTest" method="useAppContext" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

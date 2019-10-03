@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">MovieFavorite</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="no_favorite">No Favorite</string>
+</resources>
